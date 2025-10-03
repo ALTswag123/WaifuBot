@@ -1,4 +1,4 @@
-# WiafuBot
+# WaifuBot
 Waifu ChatBot with python
 
 requires Ollama to run
